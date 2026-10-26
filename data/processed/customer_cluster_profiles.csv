@@ -1,0 +1,3 @@
+customer_cluster,customer_count,avg_orders,avg_order_value,avg_total_spending,avg_ordering_frequency,avg_rating_given,avg_weekend_orders,avg_late_night_orders
+0,487,11.83,644.24,7574.04,0.07,3.0,3.49,3.75
+1,513,7.01,621.17,4335.5,0.04,2.98,1.8,1.79

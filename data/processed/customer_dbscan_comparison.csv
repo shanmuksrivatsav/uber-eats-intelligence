@@ -1,0 +1,7 @@
+eps,clusters,noise_points,noise_percent,silhouette_excluding_noise
+0.5,0,1000,100.0,
+0.75,6,908,90.8,0.211
+1.0,1,371,37.1,
+1.25,1,121,12.1,
+1.5,1,27,2.7,
+2.0,1,4,0.4,
