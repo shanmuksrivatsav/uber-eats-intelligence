@@ -1,0 +1,3 @@
+series,adf_statistic,p_value,used_lags,observations,critical_1_percent,critical_5_percent,critical_10_percent
+Original hourly demand,-35.01465124831991,0.0,3,4315,-3.4318663834106182,-2.8622100540854554,-2.5671266746199155
+First-differenced hourly demand,-19.98024348770904,0.0,31,4286,-3.431876649742497,-2.862214589371708,-2.567129088984984

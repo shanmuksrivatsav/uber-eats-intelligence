@@ -1,0 +1,7 @@
+kpi,value,source,interpretation
+Total orders,10000,orders.csv,Number of order records in the synthetic dataset.
+Total customers,1000,customers.csv,Number of customer records in the synthetic dataset.
+Total restaurants,100,restaurants.csv,Number of restaurant records in the synthetic dataset.
+Delivery status categories,1,deliveries.csv,Status field used: delivery_status.
+Best delivery-time model,Lasso Regression,Day 4 model comparison,MAE=4.025 minutes; RMSE=5.033; R²=0.909.
+Best demand forecast model,"ARIMA(1, 0, 1)",Day 5 forecast comparison,Lowest test MAE=1.205 orders/hour.

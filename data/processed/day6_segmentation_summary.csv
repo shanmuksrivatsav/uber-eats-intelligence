@@ -1,0 +1,5 @@
+entity_type,cluster,profile
+customer,0.0,customer_count=487.0 | avg_orders=11.83 | avg_order_value=644.24 | avg_total_spending=7574.04 | avg_ordering_frequency=0.07 | avg_rating_given=3.0 | avg_weekend_orders=3.49 | avg_late_night_orders=3.75
+customer,1.0,customer_count=513.0 | avg_orders=7.01 | avg_order_value=621.17 | avg_total_spending=4335.5 | avg_ordering_frequency=0.04 | avg_rating_given=2.98 | avg_weekend_orders=1.8 | avg_late_night_orders=1.79
+restaurant,0.0,restaurant_count=50.0 | avg_orders=94.72 | avg_revenue=59115.21 | avg_rating=4.07 | avg_prep_time=17.32 | avg_cancellation_rate=7.19 | avg_delivery_time=43.43
+restaurant,1.0,restaurant_count=50.0 | avg_orders=105.28 | avg_revenue=67364.01 | avg_rating=4.16 | avg_prep_time=31.3 | avg_cancellation_rate=5.74 | avg_delivery_time=57.49
